@@ -17,4 +17,4 @@ this is a readme file and i love it
 4. now if you want to remove you can using git rm --cached -r <filename>
    ![image](https://github.com/user-attachments/assets/917413a2-b07a-4179-ab4a-4086b4a54a4c)
 5. git commit -m "add message after -m" enter
-6. 
+6. **"git remote -v"** to check whether or not it is connected to a repository
