@@ -17,4 +17,9 @@ this is a readme file and i love it
 4. now if you want to remove you can using git rm --cached -r <filename>
    ![image](https://github.com/user-attachments/assets/917413a2-b07a-4179-ab4a-4086b4a54a4c)
 5. git commit -m "add message after -m" enter
-6. **"git remote -v"** to check whether or not it is connected to a repository
+6. ***"git remote -v"*** to check whether or not it is connected to a repository.
+7. to add it onto existing online repository type ***"git remote add origin {paste the ilnk of the repo}"***.
+   ![image](https://github.com/user-attachments/assets/d7e52871-b703-4b2d-ad3c-a6fd576d43a1)
+8. Then you ***"git push origin master"*** to tell it where to push.
+   ![image](https://github.com/user-attachments/assets/76bad355-3347-4d61-9c3c-fe80c3cd6c4a)
+
